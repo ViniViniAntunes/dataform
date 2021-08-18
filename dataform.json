@@ -1,6 +1,6 @@
 {
     "warehouse": "bigquery",
-    "defaultSchema": "dataform",
+    "defaultSchema": "estudos_gabrielly",
     "assertionSchema": "dataform_assertions",
     "defaultDatabase": "dp6-estudos"
 }

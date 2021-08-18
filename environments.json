@@ -6,7 +6,7 @@
       "schedules": [
         {
           "name": "Teste de schedule",
-          "cron": "24 21 * * *"
+          "cron": "26 21 * * *"
         }
       ],
       "gitRef": "master"

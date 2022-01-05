@@ -1,6 +1,7 @@
 config {
     type: "incremental",
-    tags: ["teste"]
+    tags: ["teste"],
+    dependencies: ["gabrielly_teste"]
 }
 
 SELECT

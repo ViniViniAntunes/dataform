@@ -1,0 +1,7 @@
+config {
+  type: "assertion"
+}
+
+select *
+from ${ref("teste_vini")}
+where value is null

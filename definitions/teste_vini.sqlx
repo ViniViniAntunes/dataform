@@ -1,0 +1,13 @@
+config {
+    type: "incremental",
+    tags: ["teste"]
+}
+
+SELECT
+    CAST(proxy AS INT64) * 2 AS col1,
+    CAST(outro AS INT64) / 5 AS col2,
+    proxy AS col3,
+    outro AS col4
+
+FROM
+    dp6-estudos.estudos_gabrielly.temp2

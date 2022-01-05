@@ -2,5 +2,5 @@ config {
   type: "table"
 }
 
-select * 
-from dp6-estudos.estudos_gabrielly.temp2
+SELECT * 
+FROM dp6-estudos.estudos_gabrielly.temp2
